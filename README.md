@@ -1,4 +1,4 @@
-# 🤖 ExpertOption Python Trading Bot
+pip install -r requirements.txt# 🤖 ExpertOption Python Trading Bot
 
 **بـوت تداول آلي لمنصة ExpertOption مكتوب بلغة بايثون.**
 
